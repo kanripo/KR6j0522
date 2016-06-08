@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:09.709131
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 深沙大將儀軌
 #+PROPERTY: CBETA_ID T21n1291
 #+PROPERTY: ID KR6j0522
